@@ -1,0 +1,6 @@
+[submodule "LoRa_Sub_Mater"]
+	path = LoRa_Sub_Mater
+	url = https://github.com/Huihh/LoRa_Sub_Mater.git
+[submodule "LoRa_Sub_Slave"]
+	path = LoRa_Sub_Slave
+	url = https://github.com/Huihh/LoRa_Sub_Slave.git
